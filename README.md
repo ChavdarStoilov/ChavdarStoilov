@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChavdarStoilov&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavdarStoilov&layout=compact)
 
-### Conatact with me:
+### Contact with me:
 
 <a href="https://www.linkedin.com/in/chavdar-stoilov-7a8088167/" >
   <img align="left" alt="Linkedin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" />
