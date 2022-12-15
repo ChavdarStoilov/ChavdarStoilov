@@ -27,11 +27,12 @@
 ### Languages and tools:
 
 <a>
-  <img align="left" alt="gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+  <img align="left" alt="python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   <img align="left" alt="html" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
   <img align="left" alt="css" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
   <img align="left" alt="pycharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
   <img align="left" alt="selenium" width="38px" src="https://blog.apify.com/content/images/2022/01/selenium-python.png" />
+  <img align="left" alt="JS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" />
 
 </a>
 
