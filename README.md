@@ -13,7 +13,7 @@
 </div>
 
 ###
-
+<h3 align="center" >Languages and Tools:</h3>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" width="47" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="33" width="47" alt="django logo"  />
@@ -26,17 +26,13 @@
 </div>
 
 ###
-
+<h3 align="center" >Connect with me:</h3>
 <div align="center">
-  <a href="stoilov.chavdar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/chavdar-stoilov-7a8088167" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/ch0ch0o" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+<a href="https://linkedin.com/in/chavdar-stoilov-7a8088167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavdar-stoilov-7a8088167" height="30" width="40" /> </a>
+<a href="https://instagram.com/ch0ch0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch0ch0o" height="30" width="40" /></a>
+<a target="_blank" href="mailto:stoilov.chavdar@gmail.com">
+  <img align="center" alt="Gmail" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />
+</a>
 </div>
 
 ###
