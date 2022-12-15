@@ -32,7 +32,7 @@
   <img align="left" alt="css" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
   <img align="left" alt="pycharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
   <img align="left" alt="selenium" width="38px" src="https://blog.apify.com/content/images/2022/01/selenium-python.png" />
-  <img align="left" alt="JS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" />
+  <img align="left" alt="JS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />
 
 </a>
 
