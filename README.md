@@ -6,6 +6,8 @@
 
 
 ###
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChavdarStoilov&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 
 
 ###
@@ -24,11 +26,17 @@
 ###
 <h3 align="center" >Connect with me:</h3>
 <div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 <a href="https://linkedin.com/in/chavdar-stoilov-7a8088167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavdar-stoilov-7a8088167" height="30" width="40" /> </a>
 <a href="https://instagram.com/ch0ch0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch0ch0o" height="30" width="40" /></a>
 <a target="_blank" href="mailto:stoilov.chavdar@gmail.com">
   <img align="center" alt="Gmail" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />
 </a>
+    <br />
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=ChavdarStoilov&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 ###
