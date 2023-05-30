@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I’m currently learning Python Web Developer in SoftUni and working as a Application Administrator</h3>
+<h3 align="center">I’m currently learning Python Web Developer in SoftUni and work as a Application Administrator</h3>
 
 
 ###
