@@ -1,42 +1,53 @@
-<h2 align="left">Hi 👋! My name is Chavdar Stoilov</h2>
+<h2 align="left">Hi 👋! My name Chavdar Stoilov</h2>
 
 ###
 
 <h3 align="center">I’m currently learning Python Web Developer in SoftUni and work as a Application Administrator</h3>
 
+###
+
+<div align="center">
+  <img height="150" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"  />
+  <img height="150" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" />
+</div>
 
 ###
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChavdarStoilov&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChavdarStoilov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChavdarStoilov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
+</div>
+
+###
 
 ###
 <h3 align="center" >Languages and Tools:</h3>
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" width="47" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="33" width="47" alt="django logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" width="47" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" width="47" alt="css3 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" width="47" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="33" width="47" alt="linux logo"  />
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" width="47" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="33" width="47" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" width="47" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" width="47" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" width="47" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="33" width="47" alt="linux logo"  />
 </div>
 
 ###
 <h3 align="center" >Connect with me:</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-<a href="https://linkedin.com/in/chavdar-stoilov-7a8088167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavdar-stoilov-7a8088167" height="30" width="40" /> </a>
-<a href="https://instagram.com/ch0ch0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch0ch0o" height="30" width="40" /></a>
-<a target="_blank" href="mailto:stoilov.chavdar@gmail.com">
+    <a href="https://linkedin.com/in/chavdar-stoilov-7a8088167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavdar-stoilov-7a8088167" height="30" width="40" /> 
+    </a>
+    <a href="https://instagram.com/ch0ch0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch0ch0o" height="30" width="40" />
+    </a>
+    <a target="_blank" href="mailto:stoilov.chavdar@gmail.com">
   <img align="center" alt="Gmail" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />
-</a>
-    <br />
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=ChavdarStoilov&style=flat-square&color=blue" alt=""/>
+    </a>
+</div>
 
+###
+
+<div align="center"
+    <img src="https://komarev.com/ghpvc/?username=ChavdarStoilov&style=flat-square&color=blue" alt=""/>
 </div>
 
 ###
