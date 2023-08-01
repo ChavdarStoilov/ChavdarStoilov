@@ -36,12 +36,14 @@
 ###
 <h3 align="center" >Connect with me:</h3>
 <div align="center">
-    <a href="https://linkedin.com/in/chavdar-stoilov-7a8088167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavdar-stoilov-7a8088167" height="30" width="40" /> 
+    <a target="blank" href="https://linkedin.com/in/chavdar-stoilov-7a8088167" align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavdar-stoilov-7a8088167" height="30" width="40" /> 
     </a>
-    <a href="https://instagram.com/ch0ch0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch0ch0o" height="30" width="40" />
+    <a target="blank" href="https://instagram.com/ch0ch0o" align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch0ch0o" height="30" width="40" />
     </a>
-    <a target="_blank" href="mailto:stoilov.chavdar@gmail.com">
-  <img align="center" alt="Gmail" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />
+    <a target="blank" href="mailto:stoilov.chavdar@gmail.com" align="center">
+      <img alt="Gmail" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />
     </a>
 </div>
 
