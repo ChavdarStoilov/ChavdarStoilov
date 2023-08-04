@@ -7,8 +7,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"  />
-  <img height="150" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" />
+  <img height="180" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" />
 </div>
 
 ###
