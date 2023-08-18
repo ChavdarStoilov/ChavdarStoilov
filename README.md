@@ -1,3 +1,4 @@
+
 <h2 align="center">Hi 👋! My name Chavdar Stoilov</h2>
 
 ###
@@ -7,16 +8,24 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" />
+  <img height="380" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" />
 </div>
 
 ###
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ChavdarStoilov&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChavdarStoilov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center" style="displey:flex;" >
 
-[comment]: </div>
+  <div>  
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChavdarStoilov&show_icons=true&theme=transparent)
+  
+ </div>
+ <div>
+   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavdarStoilov&layout=compact&theme=transparent)
+  
+  </div>
+</div>
 
 ###
 
