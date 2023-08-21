@@ -17,12 +17,12 @@
 
   <div>  
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChavdarStoilov&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChavdarStoilov&show_icons=true&theme=transparent)
   
  </div>
  <div>
    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavdarStoilov&layout=compact&theme=transparent)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChavdarStoilov&layout=compact&theme=transparent)
   
   </div>
 </div>
