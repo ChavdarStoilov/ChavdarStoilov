@@ -8,7 +8,10 @@
 ###
 
 <div align="center">
-  <img height="380" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" />
+  
+  <!--- <img height="380" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" /> --->
+    
+  <img height="480" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRobnQwbHJydnhuN3B4emVyY2hkbXJiZWlzb21zcWE5MnoxNmdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 ###
